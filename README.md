@@ -1,2 +1,1 @@
-# Receitas-IPM
-Projeto 1 IPM
+Rede Social de Receitas
